@@ -1,4 +1,4 @@
-# 
+# 精英 pancakeswap trading bot 模板 Mac OS版 | 开源 pancakeswap trading bot 模板 PC Windows版。集成 滑点控制 和 做市，跨平台性能最大化。
 
 
 
